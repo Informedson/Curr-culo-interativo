@@ -1,0 +1,12 @@
+
+{
+  "name": "curriculo-interativo",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "framer-motion": "^10.0.0",
+    "lucide-react": "^0.269.0"
+  }
+}
